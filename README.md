@@ -2,4 +2,4 @@
 
 GranDt creado para rargentinaprograma
 
-![Diagrama de clases](grandtDiagrama.png)
+![Diagrama de clases](grandtDiagrama.drawio.png)
