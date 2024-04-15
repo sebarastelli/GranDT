@@ -1,0 +1,137 @@
+{
+    "count": 1000,
+    "results": [
+      {
+        "nombre": "Cristian Medina",
+        "equipo": "Boca Juniors",
+        "precio": 1000000.00,
+        "posicion": "Titular"
+      },
+      {
+        "nombre": "Ezequiel Fernández",
+        "equipo": "Boca Juniors",
+        "precio": 900000.00,
+        "posicion": "Titular"
+      },
+      {
+        "nombre": "Kevin Zenón",
+        "equipo": "Boca Juniors",
+        "precio": 800000.00,
+        "posicion": "Titular"
+      },
+      {
+        "nombre": "Nicolás Valentini",
+        "equipo": "Boca Juniors",
+        "precio": 700000.00,
+        "posicion": "Titular"
+      },
+      {
+        "nombre": "Miguel Merentiel",
+        "equipo": "Boca Juniors",
+        "precio": 600000.00,
+        "posicion": "Titular"
+      },
+      {
+        "nombre": "Lautaro Blanco",
+        "equipo": "Boca Juniors",
+        "precio": 500000.00,
+        "posicion": "Titular"
+      },
+      {
+        "nombre": "Luca Langoni",
+        "equipo": "Boca Juniors",
+        "precio": 400000.00,
+        "posicion": "Titular"
+      },
+      {
+        "nombre": "Nicolás Figal",
+        "equipo": "Boca Juniors",
+        "precio": 300000.00,
+        "posicion": "Titular"
+      },
+      {
+        "nombre": "Edinson Cavani",
+        "equipo": "Boca Juniors",
+        "precio": 200000.00,
+        "posicion": "Titular"
+      },
+      {
+        "nombre": "Lucas Blondel",
+        "equipo": "Boca Juniors",
+        "precio": 100000.00,
+        "posicion": "Titular"
+      },
+      {
+        "nombre": "Sergio Romero",
+        "equipo": "Boca Juniors",
+        "precio": 50000.00,
+        "posicion": "Titular"
+      },
+      {
+        "nombre": "Lucas Janson",
+        "equipo": "Boca Juniors",
+        "precio": 40000.00,
+        "posicion": "Suplente"
+      },
+      {
+        "nombre": "Exequiel Zeballos",
+        "equipo": "Boca Juniors",
+        "precio": 30000.00,
+        "posicion": "Suplente"
+      },
+      {
+        "nombre": "Jabes Saralegui",
+        "equipo": "Boca Juniors",
+        "precio": 20000.00,
+        "posicion": "Suplente"
+      },
+      {
+        "nombre": "Juan Ramírez",
+        "equipo": "Boca Juniors",
+        "precio": 10000.00,
+        "posicion": "Suplente"
+      },
+      {
+        "nombre": "Pol Fernández",
+        "equipo": "Boca Juniors",
+        "precio": 5000.00,
+        "posicion": "Suplente"
+      },
+      {
+        "nombre": "Norberto Briasco",
+        "equipo": "Boca Juniors",
+        "precio": 4000.00,
+        "posicion": "Suplente"
+      },
+      {
+        "nombre": "Aaron Anselmino",
+        "equipo": "Boca Juniors",
+        "precio": 3000.00,
+        "posicion": "Suplente"
+      },
+      {
+        "nombre": "Leandro Brey",
+        "equipo": "Boca Juniors",
+        "precio": 2000.00,
+        "posicion": "Suplente"
+      },
+      {
+        "nombre": "Vicente Taborda",
+        "equipo": "Boca Juniors",
+        "precio": 1000.00,
+        "posicion": "Suplente"
+      },
+      {
+        "nombre": "Luis Advíncula",
+        "equipo": "Boca Juniors",
+        "precio": 1000.00,
+        "posicion": "Suplente"
+      },
+      {
+        "nombre": "Marcelo Weigandt",
+        "equipo": "Boca Juniors",
+        "precio": 1000.00,
+        "posicion": "Suplente"
+      }
+    ]
+  }
